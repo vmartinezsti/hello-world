@@ -2,5 +2,5 @@
 This a test 
 
 
-Hello, these are some chnages being made to this file.
+Hello, these are some changes being made to this file.
 Keep learning!
